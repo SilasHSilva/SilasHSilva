@@ -1,7 +1,7 @@
 ## Olá, meu nome é Silas Henrique 😊✌🏾
 
-- 📚 Universidade FIAP
-- 🌱 Estudante de Análise e desenvolvimento de Sistemas
+- 📚 Estudante de Engenharia da Computação (Universidade IMPACTA)
+- 🌱 Formado em Análise e desenvolvimento de Sistemas (Universidade FIAP)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="SH-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
